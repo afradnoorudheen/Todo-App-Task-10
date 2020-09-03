@@ -1,3 +1,6 @@
+DEPLOYED ON NETLIFY  -  https://serene-dubinsky-71c5f5.netlify.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
